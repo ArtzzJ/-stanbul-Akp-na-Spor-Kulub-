@@ -5,11 +5,11 @@
     "branch": "kumite",
     "category": "Kumite -68kg",
     "belt": "Siyah Kuşak 1. Dan",
-    "bio": "Kulübün yarışma takımı kaptanı, 5 yıllık yarışma tecrübesine sahip."
+    "bio": "Kulübün  kata takımı kaptanı, 3 yıllık yarışma tecrübesine sahip."
   },
   {
     "id": 2,
-    "name": "Cengiz Tiken",
+    "name": "Arda Erdoğan",
     "branch": "kata",
     "category": "Kata Ferdi",
     "belt": "Siyah Kuşak 1. Dan",
@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "name": "ALi Osman Ayçiçek",
+    "name": "Buğra Efe Taşdelen",
     "branch": "kumite",
     "category": "Kumite -78kg",
-    "belt": "Kahverengi Kuşak",
+    "belt": "Siyah Kuşak 1. Dan",
     "bio": "Genç sporcular arasında öne çıkan mücadeleci yapısıyla tanınır."
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "Yusuf Efe Sarıaslan",
+    "name": "ALi Osman Ayçiçek",
     "branch": "yetiskin",
     "category": "Yetişkin",
     "belt": "Mavi Kuşak",
