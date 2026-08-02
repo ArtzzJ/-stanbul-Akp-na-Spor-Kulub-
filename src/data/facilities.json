@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Antrenman Salonu (Dojo)",
+    "capacity": "80 kişi",
+    "description": "Standart tatami zemin, aynalı duvarlar ve müsabaka alanı ölçülerinde ana antrenman salonumuz."
+  },
+  {
+    "id": 2,
+    "name": "Kondisyon Salonu",
+    "capacity": "20 kişi",
+    "description": "Sporcularımızın fiziksel hazırlık ve kuvvet antrenmanları için kullandığı destek salonu."
+  },
+  {
+    "id": 3,
+    "name": "Minikler Antrenman Alanı",
+    "capacity": "30 kişi",
+    "description": "6-10 yaş grubu için güvenli, renkli ve oyun temelli düzenlenmiş özel alan."
+  }
+]

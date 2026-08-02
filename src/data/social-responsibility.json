@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Ücretsiz Öz Savunma Atölyeleri",
+    "description": "Mahalle sakinleri için düzenli olarak ücretsiz öz savunma ve farkındalık atölyeleri düzenliyoruz."
+  },
+  {
+    "id": 2,
+    "title": "İhtiyaç Sahibi Ailelere Ekipman Bağışı",
+    "description": "Kullanılmayan karate ekipmanlarını toplayarak ihtiyaç sahibi ailelerin çocuklarına ulaştırıyoruz."
+  },
+  {
+    "id": 3,
+    "title": "Okullarda Spor Bilinci Seminerleri",
+    "description": "Bölgedeki ilkokullarda düzenli spor bilinci ve disiplin seminerleri veriyoruz."
+  }
+]

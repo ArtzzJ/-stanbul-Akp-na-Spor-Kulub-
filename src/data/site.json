@@ -1,0 +1,34 @@
+{
+  "clubName": "İstanbul Akpınar Spor Kulübü",
+  "shortName": "Akpınar SK",
+  "foundedYear": 2012,
+  "tagline": "Disiplin. Saygı. Mücadele.",
+  "address": "Hadımköy Mah. Mevlana Cad. No: 14, Arnavutköy / İstanbul",
+  "phone": "+90 (212) 555 01 23",
+  "email": "info@akpinarspor.com.tr",
+  "social": {
+    "instagram": "https://instagram.com/akpinarspor",
+    "facebook": "https://facebook.com/akpinarspor",
+    "youtube": "https://youtube.com/@akpinarspor"
+  },
+  "mission": "Her yaştan sporcuya karatenin disiplinini, saygı kültürünü ve mücadele ruhunu aşılamak; yarışmacı ve amatör sporcuları bir arada güçlü bir aile ortamında yetiştirmek.",
+  "vision": "Bölgenin en çok tercih edilen, sporcu odaklı ve başarılarıyla öne çıkan karate kulübü olmak.",
+  "values": [
+    "Saygı (Rei)",
+    "Disiplin",
+    "Azim ve Sabır",
+    "Takım Ruhu",
+    "Dürüstlük"
+  ],
+  "history": [
+    { "year": 2012, "text": "Kulüp, 4 sporcuyla küçük bir salonda kuruldu." },
+    { "year": 2013, "text": "İlk bölge şampiyonası madalyası kazanıldı." },
+    { "year": 2017, "text": "Alt yapı (minikler) programı hayata geçirildi." },
+    { "year": 2021, "text": "Yeni antrenman tesisimize taşınıldı." },
+    { "year": 2026, "text": "150'den fazla aktif sporcuyla faaliyetlerine devam ediyor." }
+  ],
+  "emblem": {
+    "colors": ["Lacivert", "Kırmızı", "Beyaz"],
+    "meaning": "Lacivert güveni ve kararlılığı, kırmızı mücadele azmini, beyaz ise saflığı ve disiplini simgeler."
+  }
+}

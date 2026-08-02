@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #14171f;
+  --brand-navy: #050505;
+  --brand-navy-light: #141414;
+  --brand-red: #b8102c;
+  --brand-red-dark: #7d0a1e;
+  --brand-gold: #e0344f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-navy: var(--brand-navy);
+  --color-navy-light: var(--brand-navy-light);
+  --color-red: var(--brand-red);
+  --color-red-dark: var(--brand-red-dark);
+  --color-gold: var(--brand-gold);
+  --font-sans: var(--font-body);
+  --font-heading: var(--font-heading-family);
+}
+
+:root {
+  --font-body: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  --font-heading-family: "Arial Narrow", "Helvetica Neue Condensed", system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+}
+
+.font-heading {
+  font-family: var(--font-heading-family);
+  letter-spacing: 0.01em;
+}
+
+.placeholder-media {
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.06) 0px,
+    rgba(255, 255, 255, 0.06) 2px,
+    transparent 2px,
+    transparent 12px
+  );
+}

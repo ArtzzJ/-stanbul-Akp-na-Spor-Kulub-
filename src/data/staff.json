@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ahben Özköylü Tütüncü",
+    "role": "Kulüp Antrenörü / Kulüp Kurucusu",
+    "belt": "Siyah Kuşak 1. Dan",
+    "bio": "20 yılı aşkın antrenörlük tecrübesiyle kulübün kurucusu ve teknik sorumlusu."
+  },
+  {
+    "id": 2,
+    "name": "Tekin Tütüncü",
+    "role": "Baş Antrenör",
+    "belt": "Siyah Kuşak 7. Dan",
+    "bio": "Milli takım altyapısında yer almış, kumite branşında uzman antrenör."
+  },
+  {
+    "id": 3,
+    "name": "Tekin Mustafa Tütüncü",
+    "role": "Minikler Antrenörü",
+    "belt": "Siyah Kuşak 3. Dan",
+    "bio": "Çocuk gelişimi ve spor eğitimi alanında uzmanlaşmış antrenör."
+  },
+  {
+    "id": 4,
+    "name": "Halil İbrahim Güneş",
+    "role": "Yardımcı Antrenör",
+    "belt": "Siyah Kuşak 2. Dan",
+    "bio": "Uzun yıllar spor geçmişi olan kulübün yardımcı antrenörü."
+  }
+]

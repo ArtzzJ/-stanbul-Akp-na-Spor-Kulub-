@@ -1,0 +1,46 @@
+{
+  "upcoming": [
+    {
+      "id": 1,
+      "name": "İl Karate Şampiyonası",
+      "date": "2026-08-15",
+      "venue": "Şehir Spor Salonu",
+      "categories": ["Kata", "Kumite"]
+    },
+    {
+      "id": 2,
+      "name": "Bölgesel Minikler Turnuvası",
+      "date": "2026-09-05",
+      "venue": "Gençlik Spor Kompleksi",
+      "categories": ["Minikler Kata"]
+    }
+  ],
+  "past": [
+    {
+      "id": 1,
+      "name": "Bölge Şampiyonası",
+      "date": "2026-07-10",
+      "venue": "Bölge Spor Salonu",
+      "result": "2 Altın, 1 Bronz"
+    },
+    {
+      "id": 2,
+      "name": "İlkbahar Kupası",
+      "date": "2026-04-18",
+      "venue": "Belediye Spor Salonu",
+      "result": "1 Gümüş, 2 Bronz"
+    },
+    {
+      "id": 3,
+      "name": "Kulüpler Arası Dostluk Turnuvası",
+      "date": "2026-02-22",
+      "venue": "Anadolu Spor Salonu",
+      "result": "3 Altın"
+    }
+  ],
+  "medalTable": [
+    { "season": "2026", "gold": 6, "silver": 3, "bronze": 5 },
+    { "season": "2025", "gold": 4, "silver": 5, "bronze": 3 },
+    { "season": "2024", "gold": 2, "silver": 4, "bronze": 6 }
+  ]
+}

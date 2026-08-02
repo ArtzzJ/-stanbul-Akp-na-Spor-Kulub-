@@ -1,0 +1,32 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Bölge Şampiyonası 2026",
+      "date": "2026-07-10",
+      "photoCount": 18
+    },
+    {
+      "id": 2,
+      "title": "Yeni Sezon Açılış Antrenmanı",
+      "date": "2026-07-01",
+      "photoCount": 12
+    },
+    {
+      "id": 3,
+      "title": "Kuşak Sınavı 2026",
+      "date": "2026-06-01",
+      "photoCount": 24
+    },
+    {
+      "id": 4,
+      "title": "Sosyal Sorumluluk Etkinliği",
+      "date": "2026-05-10",
+      "photoCount": 15
+    }
+  ],
+  "videos": [
+    { "id": 1, "title": "Bölge Şampiyonası Özet Videosu", "date": "2026-07-11" },
+    { "id": 2, "title": "Kata Takımı Antrenman Görüntüleri", "date": "2026-06-15" }
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Ahben Özköylü Tütüncü", "role": "Kulüp Başkanı", "bio": "Kulübün kurucusu." },
+  { "id": 2, "name": "Tekin Tütüncü", "role": "Klüp Antrenörü", "bio": "Kulüp Baş Antrenörü." },
+  { "id": 3, "name": "Tekin Mustafa Tütüncü", "role": "Kulüp Antrenörü", "bio": "Milli Sporcu ." },
+  { "id": 4, "name": "Halil İbrahim Güneş", "role": "Yardımcı Antrenör", "bio": "Kulübün yardımcı antrenörü." }
+]

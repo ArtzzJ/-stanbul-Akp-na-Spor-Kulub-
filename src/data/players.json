@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Azra Ongun",
+    "branch": "kumite",
+    "category": "Kumite -68kg",
+    "belt": "Siyah Kuşak 1. Dan",
+    "bio": "Kulübün yarışma takımı kaptanı, 5 yıllık yarışma tecrübesine sahip."
+  },
+  {
+    "id": 2,
+    "name": "Cengiz Tiken",
+    "branch": "kata",
+    "category": "Kata Ferdi",
+    "belt": "Siyah Kuşak 1. Dan",
+    "bio": "Bölge şampiyonası kata kategorisi finalisti."
+  },
+  {
+    "id": 3,
+    "name": "ALi Osman Ayçiçek",
+    "branch": "kumite",
+    "category": "Kumite -78kg",
+    "belt": "Kahverengi Kuşak",
+    "bio": "Genç sporcular arasında öne çıkan mücadeleci yapısıyla tanınır."
+  },
+  {
+    "id": 4,
+    "name": "Yağmur Taş",
+    "branch": "kata",
+    "category": "Takım Katası",
+    "belt": "Siyah Kuşak 1. Dan",
+    "bio": "Takım katası ekibinin en deneyimli üyelerinden biri."
+  },
+  {
+    "id": 5,
+    "name": "Kaan Öz",
+    "branch": "minikler",
+    "category": "Minikler",
+    "belt": "Sarı Kuşak",
+    "bio": "Kulübün geleceğini temsil eden genç yeteneklerden."
+  },
+  {
+    "id": 6,
+    "name": "Yusuf Efe Sarıaslan",
+    "branch": "yetiskin",
+    "category": "Yetişkin",
+    "belt": "Mavi Kuşak",
+    "bio": "Kondisyon ve öz savunma odaklı çalışan yetişkin grubu üyesi."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "kata",
+    "name": "Kata Takımı",
+    "summary": "Teknik form ve estetiğe dayalı kata disiplininde yarışan sporcularımız.",
+    "description": "Kata takımımız, karatenin geleneksel form (kata) disiplininde bireysel ve takım kategorilerinde yarışmaktadır. Sporcularımız düzenli olarak ulusal ve bölgesel turnuvalarda kulübümüzü temsil etmektedir.",
+    "coach": "Halil Akpınar",
+    "achievements": [
+      "2025 Bölge Şampiyonası – Takım Katası 1.'lik",
+      "2024 İl Şampiyonası – Ferdi Kata 2.'lik"
+    ]
+  },
+  {
+    "slug": "kumite",
+    "name": "Kumite Takımı",
+    "summary": "Serbest dövüş (kumite) kategorisinde mücadele eden yarışma sporcularımız.",
+    "description": "Kumite takımımız, farklı sıklet kategorilerinde hem bireysel hem de takım halinde müsabakalara katılmaktadır. Antrenman programımız kondisyon, teknik ve taktik çalışmalarını bir arada yürütür.",
+    "coach": "Mert Yıldız",
+    "achievements": [
+      "2025 Bölge Şampiyonası – 2 altın, 1 gümüş",
+      "2024 Türkiye Şampiyonası Elemeleri – 1 bronz"
+    ]
+  },
+  {
+    "slug": "minikler",
+    "name": "Minikler / Alt Yapı",
+    "summary": "6-10 yaş grubu için temel karate eğitimi ve disiplin gelişimi.",
+    "description": "Alt yapı grubumuzda çocuklarımız oyun temelli antrenmanlarla karatenin temellerini, disiplini ve öz güveni öğrenir. Amacımız yalnızca sporcu yetiştirmek değil, sağlıklı bireyler yetiştirmektir.",
+    "coach": "Ayşe Demir",
+    "achievements": [
+      "Yıl boyu düzenli kuşak sınavları",
+      "Bölgesel minikler turnuvalarına katılım"
+    ]
+  },
+  {
+    "slug": "yetiskin",
+    "name": "Yetişkin Karate",
+    "summary": "18 yaş üzeri kondisyon, öz savunma ve karate eğitimi grubu.",
+    "description": "Yetişkin grubumuz, yarışma hedefi olsun olmasın herkese açık antrenmanlarla fiziksel kondisyon, öz savunma teknikleri ve karate felsefesini bir araya getirir.",
+    "coach": "Halil Akpınar",
+    "achievements": [
+      "Haftada 3 gün düzenli antrenman",
+      "Yıllık kuşak sınavı organizasyonu"
+    ]
+  }
+]
